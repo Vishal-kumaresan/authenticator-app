@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213417122166",
+    "project_id": "webapp-57944",
+    "storage_bucket": "webapp-57944.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213417122166:android:f3bd35c941b6d24a004257",
+        "android_client_info": {
+          "package_name": "com.example.webappauthenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213417122166-pti9cni8q1f82uuvkbj8rugo5j7jcfr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCabmAXWZ7h2u0UWQOIiosGL7Ap0fBFWEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213417122166-pti9cni8q1f82uuvkbj8rugo5j7jcfr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
